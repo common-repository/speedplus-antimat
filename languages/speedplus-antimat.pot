@@ -1,0 +1,179 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2022-04-10 13:58+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: speedplus-antimat.php:30
+msgid "Settings"
+msgstr ""
+
+#: speedplus-antimat.php:31
+msgid "Need help? Hire a freelancer here"
+msgstr ""
+
+#: includes/options.php:39
+msgid "Replacement word"
+msgstr ""
+
+#: includes/options.php:45
+msgid "Color"
+msgstr ""
+
+#: includes/options.php:51
+msgid "Additional list of bad words"
+msgstr ""
+
+#: includes/options.php:57
+msgid "Defaults"
+msgstr ""
+
+#: includes/options.php:100
+msgid "Write a word that will replace all bad words."
+msgstr ""
+
+#: includes/options.php:100
+msgid "You can use multiple words, brackets, asterisks, and line breaks."
+msgstr ""
+
+#: includes/options.php:108
+msgid "badword"
+msgstr ""
+
+#: includes/options.php:108
+msgid "partofbadword"
+msgstr ""
+
+#: includes/options.php:118
+msgid ""
+"Write additional bad words in lowercase, separated by commas. Use asterisks "
+"to search for part of a word."
+msgstr ""
+
+#: includes/options.php:118
+msgid ""
+"Do not use a comma after the last word of the list. Use only letters. Do not "
+"use special characters, spaces, line breaks."
+msgstr ""
+
+#: includes/options.php:169
+msgid "Aqua"
+msgstr ""
+
+#: includes/options.php:170
+msgid "Black"
+msgstr ""
+
+#: includes/options.php:171
+msgid "Blue"
+msgstr ""
+
+#: includes/options.php:172
+msgid "Fuchsia"
+msgstr ""
+
+#: includes/options.php:173
+msgid "Gray"
+msgstr ""
+
+#: includes/options.php:174
+msgid "Green"
+msgstr ""
+
+#: includes/options.php:175
+msgid "Lime"
+msgstr ""
+
+#: includes/options.php:176
+msgid "Maroon"
+msgstr ""
+
+#: includes/options.php:177
+msgid "Navy"
+msgstr ""
+
+#: includes/options.php:178
+msgid "Olive"
+msgstr ""
+
+#: includes/options.php:179
+msgid "Purple"
+msgstr ""
+
+#: includes/options.php:180
+msgid "Red"
+msgstr ""
+
+#: includes/options.php:181
+msgid "Silver"
+msgstr ""
+
+#: includes/options.php:182
+msgid "Teal"
+msgstr ""
+
+#: includes/options.php:183
+msgid "White"
+msgstr ""
+
+#: includes/options.php:184
+msgid "Yellow"
+msgstr ""
+
+#: includes/options.php:186
+msgid "Select the color of the replacement word."
+msgstr ""
+
+#: includes/options.php:195
+msgid ""
+"Set the \"Color\" and \"Replacement word\" fields to their default values "
+"and "
+msgstr ""
+
+#: includes/options.php:195
+msgid "clear the \"Additional list of bad words\"."
+msgstr ""
+
+#: includes/options.php:203
+msgid "SpeedPlus AntiMat Settings"
+msgstr ""
+
+#: includes/options.php:213
+msgid "Did you like this plugin? You can "
+msgstr ""
+
+#: includes/options.php:213
+msgid "buy me a coffee."
+msgstr ""
+
+#: includes/options.php:214
+msgid "Also try our plugins"
+msgstr ""
+
+#: includes/options.php:214
+msgid "(removes obscene words in comments) and"
+msgstr ""
+
+#: includes/options.php:214
+msgid ""
+"(checks the customer's phone number on the WooCommerce Checkout page against "
+"your rules)."
+msgstr ""
+
+#: includes/options.php:223
+msgid "Settings saved. Nice work!"
+msgstr ""

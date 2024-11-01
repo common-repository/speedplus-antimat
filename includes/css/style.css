@@ -1,0 +1,15 @@
+#speedplus_antimat_admin_panel{background:#FFF;padding:20px}
+#speedplus_antimat_admin_panel tr:nth-child(odd){background:#f5f5f5}
+#speedplus_antimat_admin_panel_footer{padding:20px 0;font-weight:700}
+#speedplus_antimat_save_message{background:#fff;padding:5px 15px;color:#fff;border:1px solid #eee;font-weight:600;background:#26b429;background-color:#26b429}
+span.speedplus_antimat_info{color:gray;font-size:small}
+span.speedplus_antimat_bold{font-weight:700}
+span.speedplus_antimat_red_bold{color:#d63638;font-weight:700}
+.form-table th{vertical-align:middle!important;padding:12px 10px 12px 15px !important;width:150px!important}
+.form-table td{padding:10px!important}
+div#speedplus_antimat_save_message p{font-size:larger}
+#speedplus_antimat_admin_panel_footer .dashicons-heart{color:red}
+#speedplus_antimat_admin_panel_footer .dashicons-performance{color:red}
+#speedplus_antimat_admin_panel_form textarea,#speedplus_antimat_admin_panel_form input{display:block}
+.antimat-color-box{width:28px;height:28px;float:left;border:1px #000 solid;margin-right:5px;border-radius:3px}
+input#speedplus_antimat_checkbox_defaults{display:inline-block}

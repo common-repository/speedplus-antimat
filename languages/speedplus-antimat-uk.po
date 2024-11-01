@@ -1,0 +1,188 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2022-04-10 14:00+0300\n"
+"Last-Translator: Speedplus.com.ua <1@speedplus.com.ua>\n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: speedplus-antimat.php:30
+msgid "Settings"
+msgstr "Налаштування"
+
+#: speedplus-antimat.php:31
+msgid "Need help? Hire a freelancer here"
+msgstr "Потрібна допомога? Найміть фрілансера тут"
+
+#: includes/options.php:39
+msgid "Replacement word"
+msgstr "Слово для заміни"
+
+#: includes/options.php:45
+msgid "Color"
+msgstr "Колір"
+
+#: includes/options.php:51
+msgid "Additional list of bad words"
+msgstr "Додатковий список поганих слів"
+
+#: includes/options.php:57
+msgid "Defaults"
+msgstr "За замовчуванням"
+
+#: includes/options.php:100
+msgid "Write a word that will replace all bad words."
+msgstr "Напишіть слово, яким будуть замінені все погані слова."
+
+#: includes/options.php:100
+msgid "You can use multiple words, brackets, asterisks, and line breaks."
+msgstr ""
+"Ви можете використовувати одне слово, кілька слів, речення, різні дужки, "
+"зірочку та перехід на новий рядок."
+
+#: includes/options.php:108
+msgid "badword"
+msgstr "поганеслово"
+
+#: includes/options.php:108
+msgid "partofbadword"
+msgstr "частинапоганогослова"
+
+#: includes/options.php:118
+msgid ""
+"Write additional bad words in lowercase, separated by commas. Use asterisks "
+"to search for part of a word."
+msgstr ""
+"Пишіть додаткові погані слова з малої букви, розділяючи їх комами. "
+"Використовуйте зірочки для пошуку частини слова."
+
+#: includes/options.php:118
+msgid ""
+"Do not use a comma after the last word of the list. Use only letters. Do not "
+"use special characters, spaces, line breaks."
+msgstr ""
+"Після останнього слова списку не ставте кому. Використовуйте лише літери. Не "
+"використовуйте спеціальні символи, пробіли, розриви рядків."
+
+#: includes/options.php:169
+msgid "Aqua"
+msgstr "Блакитний"
+
+#: includes/options.php:170
+msgid "Black"
+msgstr "Чорний"
+
+#: includes/options.php:171
+msgid "Blue"
+msgstr "Синій"
+
+#: includes/options.php:172
+msgid "Fuchsia"
+msgstr "Фуксія"
+
+#: includes/options.php:173
+msgid "Gray"
+msgstr "Сірий"
+
+#: includes/options.php:174
+msgid "Green"
+msgstr "Зелений"
+
+#: includes/options.php:175
+msgid "Lime"
+msgstr "Салатовий"
+
+#: includes/options.php:176
+msgid "Maroon"
+msgstr "Бордовий"
+
+#: includes/options.php:177
+msgid "Navy"
+msgstr "Темно-синій"
+
+#: includes/options.php:178
+msgid "Olive"
+msgstr "Оливковий"
+
+#: includes/options.php:179
+msgid "Purple"
+msgstr "Фіолетовий"
+
+#: includes/options.php:180
+msgid "Red"
+msgstr "Червоний"
+
+#: includes/options.php:181
+msgid "Silver"
+msgstr "Срібний"
+
+#: includes/options.php:182
+msgid "Teal"
+msgstr "Бірюзовий"
+
+#: includes/options.php:183
+msgid "White"
+msgstr "Білий"
+
+#: includes/options.php:184
+msgid "Yellow"
+msgstr "Жовтий"
+
+#: includes/options.php:186
+msgid "Select the color of the replacement word."
+msgstr "Оберіть колір слова для заміни."
+
+#: includes/options.php:195
+msgid ""
+"Set the \"Color\" and \"Replacement word\" fields to their default values "
+"and "
+msgstr ""
+"Встановити значення за замовчуванням для \"Колір\" і \"Слово для заміни\" та "
+
+#: includes/options.php:195
+msgid "clear the \"Additional list of bad words\"."
+msgstr "очистити \"Додатковий список поганих слів\"."
+
+#: includes/options.php:203
+msgid "SpeedPlus AntiMat Settings"
+msgstr "Налаштування SpeedPlus AntiMat"
+
+#: includes/options.php:213
+msgid "Did you like this plugin? You can "
+msgstr "Подобається плагін? Ви можете "
+
+#: includes/options.php:213
+msgid "buy me a coffee."
+msgstr "купити мені каву"
+
+#: includes/options.php:214
+msgid "Also try our plugins"
+msgstr "Також спробуйте наші плагіни"
+
+#: includes/options.php:214
+msgid "(removes obscene words in comments) and"
+msgstr "(видаляє матюки в коментарях) та"
+
+#: includes/options.php:214
+msgid ""
+"(checks the customer's phone number on the WooCommerce Checkout page against "
+"your rules)."
+msgstr ""
+"(перевіряє номер телефону покупця на сторінці оформлення замовлення "
+"WooCommerce згідно ваших правил)."
+
+#: includes/options.php:223
+msgid "Settings saved. Nice work!"
+msgstr "Налаштування збережено. Слава Україні!"
